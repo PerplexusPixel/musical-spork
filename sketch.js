@@ -82,7 +82,7 @@ function setup() {
 //btn 1
 
 button.mouseClicked(drop);
-button2.mouseClicked(remove_rope);
+button2.mouseClicked(drop);
   // write a correct block of code to add a button to cut the rope
 
   ellipseMode(RADIUS);
