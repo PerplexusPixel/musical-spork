@@ -81,7 +81,7 @@ function setup() {
   button2.size(50, 50);
 //btn 1
 
-button.mouseClicked(drop);
+button.mouseClicked(remove_rope);
 button2.mouseClicked(drop);
   // write a correct block of code to add a button to cut the rope
 
